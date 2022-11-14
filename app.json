@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "dietdoctor",
+    "slug": "dietdoctor",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

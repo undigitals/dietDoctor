@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "es6",
+    "jsx": "react",
+    "noEmit": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "paths": {
+      "src/*": ["./*"],
+    },
+    "exclude": [
+      "node_modules",
+    ],
+  },
+  "extends": "expo/tsconfig.base"
+}
